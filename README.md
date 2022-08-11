@@ -1,5 +1,4 @@
 # Ruby-my_map
-How to use ruby &amp;block
 
 Do you know how to use &block in a ruby method?
 

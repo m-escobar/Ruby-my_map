@@ -1,4 +1,4 @@
-# Ruby-my_map
+# Ruby my_map
 
 Do you know how to use &block in a ruby method?
 
